@@ -9,7 +9,8 @@ exports.handler = function (event, context, callback) {
     'Dugans',
     'Wise Owl',
     'Garbage Bar',
-    'Richard\'s'
+    'Richard\'s',
+    'Ceres'
   ]
   callback(null, {
     statusCode: 200,
