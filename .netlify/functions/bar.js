@@ -3,7 +3,12 @@ exports.handler = function (event, context, callback) {
     'Shamrock Club',
     'Monk\'s',
     'Snickers',
-    'Rossi\'s'
+    'Rossi\'s',
+    'Green St. Local',
+    'Public House',
+    'Dugans',
+    'Wise Owl',
+    'Garbage Bar'
   ]
   callback(null, {
     statusCode: 200,
