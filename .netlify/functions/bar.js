@@ -8,7 +8,8 @@ exports.handler = function (event, context, callback) {
     'Public House',
     'Dugans',
     'Wise Owl',
-    'Garbage Bar'
+    'Garbage Bar',
+    'Richard\'s'
   ]
   callback(null, {
     statusCode: 200,
